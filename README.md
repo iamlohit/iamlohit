@@ -1,5 +1,6 @@
-### Hi there 👋
+### Welcome To My Lab 👋
 
+![](https://komarev.com/ghpvc/?username=iamlohit&colur=brightgreen&style=for-the-badge&)
 <!--
 **iamlohit/iamlohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
