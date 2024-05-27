@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamlohit&colur=brightgreen&style=for-the-badge&)
 
-👋 Hello, world! Welcome to my GitHub! I'm Lohit, your go-to full-stack developer and SRE 💼, with a diverse history in network architecture, development, and reliability engineering. I’m a coding enthusiast who breathes automation, cloud technologies, and all things tech! 🚀
+👋 Hello, world! Welcome to my GitHub! I'm Lohit, an SRE 💼, with a diverse history in network architecture, distributed systems, and reliability engineering. I’m a coding enthusiast who breathes automation, cloud technologies, and all things tech! 🚀
 
 🔭 I’m currently working on managing Google Cloud Platform resources using Terraform, on display in my [TF-Workspace](https://github.com/iamlohit/TF-Workspace) repo ☁️. At the same time, I'm developing automated CI/CD workflows in the exciting domain of GitHub's DevOps service, as seen in my [github_actions](https://github.com/iamlohit/github_actions) repository 🔧.
 
